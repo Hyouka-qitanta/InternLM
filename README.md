@@ -3,7 +3,7 @@
 ## 本仓库用于记录书生大模型实战营的学习过程
 
 教程：[书生大模型实战营](https://github.com/InternLM/Tutorial)
-![书生大模型实战营](./data/ "图片title")
+![书生大模型实战营](./data/1.png)
 
 ### 入门岛
 
